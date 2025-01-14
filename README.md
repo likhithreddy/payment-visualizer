@@ -60,4 +60,4 @@ Follow these steps to set up and run the project on your local machine:
 ## Author
 
 Likhith Reddy Rechintala
-For queries, please reach out to [rlikhith@gmail.com](rlikhith@gmail.com).
+For queries, please reach out to [rlikhith@gmail.com](mailto:rlikhith@gmail.com).
