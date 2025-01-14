@@ -29,7 +29,7 @@ This project is ideal for anyone looking to track and understand their financial
 ## How It Works
 
 1. **Data Fetching**: 
-   - The application reads transactions from a CSV file (`201149121_1711531217858.csv`) using the `PaymentsFetch` class.
+   - The application reads transactions from a CSV file in the resources folder using the `PaymentsFetch` class.
    - Transactions are parsed into objects of the `PaymentRecord` model.
 
 2. **Data Analysis**:
